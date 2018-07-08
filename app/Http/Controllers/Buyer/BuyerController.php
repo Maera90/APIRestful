@@ -46,7 +46,7 @@ class BuyerController extends Controller
      */
     public function show($id)
     {
-        //
+       
     }
 
     /**

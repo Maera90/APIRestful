@@ -2,15 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\app",
+    "\\app\\Http",
     "\\app\\Http\\Controllers",
     "\\app\\Http\\Controllers\\Buyer",
+    "\\app\\Http\\Controllers\\User",
     "\\app\\Http\\Middleware",
-    "\\app\\Providers",
     "\\database",
-    "\\resources\\lang\\en",
-    "\\resources\\views",
     "\\routes"
   ],
-  "SelectedNode": "\\app\\Transaction.php",
+  "SelectedNode": "\\app\\Http\\Controllers\\User\\UserController.php",
   "PreviewInSolutionExplorer": false
 }
