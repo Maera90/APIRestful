@@ -5,11 +5,12 @@
     "\\app\\Http",
     "\\app\\Http\\Controllers",
     "\\app\\Http\\Controllers\\Buyer",
+    "\\app\\Http\\Controllers\\Seller",
     "\\app\\Http\\Controllers\\User",
     "\\app\\Http\\Middleware",
     "\\database",
-    "\\routes"
+    "\\database\\seeds"
   ],
-  "SelectedNode": "\\app\\Http\\Controllers\\User\\UserController.php",
+  "SelectedNode": "\\app\\User.php",
   "PreviewInSolutionExplorer": false
 }
